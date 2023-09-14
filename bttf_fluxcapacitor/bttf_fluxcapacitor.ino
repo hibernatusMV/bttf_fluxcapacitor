@@ -1,7 +1,9 @@
+// Code for Arduino Uno
+
 int ledPin[] = {9, 6, 5, 3};
 
 int surroundPin = 11;
-int fadespeed = 10;
+int fadespeed = 5;
 int timeTravelSpeed = 80;
 int timeTravelLength = 25;
  
